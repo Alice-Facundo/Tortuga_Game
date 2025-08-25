@@ -2,7 +2,7 @@
 
 ## Descrição
 
-"Tortuga" é um jogo 2D em Python que visa conscientizar sobre a poluição dos oceanos de uma forma divertida e interativa. O jogador controla uma tartaruga em duas fases de jogo: primeiro, limpando o oceano do lixo enquanto desvia de perigos e, segundo, separando o lixo coletado para reciclagem.
+"Tortuga" é um jogo 2D 8 bit em Python que visa conscientizar sobre a poluição dos oceanos de uma forma divertida e interativa. O jogador controla uma tartaruga em duas fases de jogo: primeiro, limpando o oceano do lixo enquanto desvia de perigos e, segundo, separando o lixo coletado para reciclagem.
 
 ## Fases do Jogo
 
@@ -45,7 +45,6 @@ Depois de coletar todo o lixo, o jogador avança para a segunda fase. Aqui, o de
 
 1.  **Verifique os caminhos dos arquivos:**
     O jogo utiliza arquivos de imagem e som locais. É crucial que os caminhos para esses arquivos no código (`.py`) correspondam à sua localização no seu sistema. O código-fonte faz referência a um diretório `D:\`. Se a sua pasta de projeto estiver em outro local, você precisará atualizar esses caminhos.
-      * **Dica:** Utilize a função "Localizar e Substituir" (Find & Replace) do seu editor de código para alterar os caminhos de forma mais eficiente.
 2.  **Execute o jogo:**
     ```bash
     python "TORTUGA - VERSÃO FINAL.py"
